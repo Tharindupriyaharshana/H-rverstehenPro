@@ -1,5 +1,7 @@
 
-Our GitHub repository contains three distinct projects, each with its own dedicated Colab page. 
+Our GitHub repository contains:
+1. Three 3 distinct final projects.
+2. Other presentations and Other projects
 
 HörverstehenPro: This project focuses on enhancing German language learning. It features a sophisticated tool that converts spoken German into text, providing grammatical corrections along the way. Additionally, it identifies and highlights verbs and nouns within the text. This functionality aids students in understanding and mastering the German language, particularly its complex grammar and vocabulary.
 
