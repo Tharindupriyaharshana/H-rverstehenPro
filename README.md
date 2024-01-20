@@ -1,7 +1,7 @@
 # H-rverstehenPro
 Semantic Data Processing and Representation- MAI-THWS Groupwork
 
-<img width="1451" alt="Screenshot 2024-01-19 at 01 16 58" src="https://github.com/Tharindupriyaharshana/H-rverstehenPro/assets/45678705/c837e36d-a642-4b6f-85d1-c18093716b50">
+<img width="600" alt="HörverstehenPro" src="https://github.com/Tharindupriyaharshana/H-rverstehenPro/assets/45678705/c837e36d-a642-4b6f-85d1-c18093716b50">
 
 
 This code represents a sophisticated tool designed for helping students, particularly those learning German, to understand spoken German better. It's a Gradio-based web application named "HörverstehenPro," incorporating various AI models for tasks like speech recognition, grammar correction, translation, and grammatical analysis.
