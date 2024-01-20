@@ -1,7 +1,21 @@
 
 Our GitHub repository contains:
-1. Three 3 distinct final projects.
-2. Other presentations and Other projects
+1. Text generation with Markov Chains
+
+2. Classification tutorial
+
+3. Presentations of two papers
+
+4. Three distinct final projects
+    4.1  HörverstehenPro
+    4.2 meme.me
+    4.3  Blenderbot
+
+Contribution of team:
+1. Rupaningal Tharindu Priya Harshana De Silva :   33.33% - 5123701
+2. Bibin Babu: 33.33%
+3. Fikrat:         33.33%
+
 
 HörverstehenPro: This project focuses on enhancing German language learning. It features a sophisticated tool that converts spoken German into text, providing grammatical corrections along the way. Additionally, it identifies and highlights verbs and nouns within the text. This functionality aids students in understanding and mastering the German language, particularly its complex grammar and vocabulary.
 
