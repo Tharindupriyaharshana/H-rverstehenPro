@@ -14,7 +14,7 @@ Our GitHub repository contains:
 Contribution of the team:
 1. Rupaningal Tharindu Priya Harshana De Silva (Matriculation no: 5123701 ):    33.33%
 2. Bibin Babu (Matriculation no: 5122732): 33.33%
-3. Fikrat (Matriculation no: 5122732):   33.33%
+3. Fikrat (Matriculation no: 5122xxxx):   33.33%
 
 HörverstehenPro: This project focuses on enhancing German language learning. It features a sophisticated tool that converts spoken German into text, providing grammatical corrections along the way. Additionally, it identifies and highlights verbs and nouns within the text. This functionality aids students in understanding and mastering the German language, particularly its complex grammar and vocabulary.
 
