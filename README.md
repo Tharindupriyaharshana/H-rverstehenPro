@@ -1,4 +1,4 @@
-# H-rverstehenPro
+# HörverstehenPro
 Semantic Data Processing and Representation- MAI-THWS Groupwork
 
 <img width="600" alt="HörverstehenPro" src="https://github.com/Tharindupriyaharshana/H-rverstehenPro/assets/45678705/c837e36d-a642-4b6f-85d1-c18093716b50">
