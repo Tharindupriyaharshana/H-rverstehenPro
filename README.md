@@ -2,7 +2,7 @@
 Our GitHub repository contains:
 1. Text generation with Markov Chains
 
-2. Classification tutorial
+2. Movie Classification 
 
 3. Presentations of two papers
 
