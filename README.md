@@ -77,7 +77,10 @@ Edtech companies often use educational memes on social media as part of their br
 Fine-tuned on: open_llama_3b"
 We leverage QLorA to efficiently decrease the training time
 
-<img width="600" alt="HörverstehenPro" src="https://github.com/Tharindupriyaharshana/H-rverstehenPro/assets/45678705/7cd3ff50-a54e-44f0-b105-d5af30f27dca">
+![image]()
+
+
+<img width="600" alt="HörverstehenPro" src="https://github.com/Tharindupriyaharshana/H-rverstehenPro/assets/45678705/ee3c01ab-1689-4cbf-842c-12b1b2f74121">
 
 <img width="600" alt="HörverstehenPro" src="https://github.com/Tharindupriyaharshana/H-rverstehenPro/assets/45678705/eb9fd046-7736-42fb-9d38-1685daed378b">
 
