@@ -3,7 +3,7 @@ Our GitHub repository contains three distinct projects, each with its own dedica
 
 HörverstehenPro: This project focuses on enhancing German language learning. It features a sophisticated tool that converts spoken German into text, providing grammatical corrections along the way. Additionally, it identifies and highlights verbs and nouns within the text. This functionality aids students in understanding and mastering the German language, particularly its complex grammar and vocabulary.
 
-Meme_Me: Aimed at creating engaging content for science-based social media campaigns, this project generates memes that are both informative and entertaining. By blending humor with scientific facts, it seeks to make science more accessible and appealing to a wider audience. This tool is perfect for educators, communicators, and social media managers who want to share scientific knowledge in a fun and relatable way.
+meme.me: Aimed at creating engaging content for science-based social media campaigns, this project generates memes that are both informative and entertaining. By blending humor with scientific facts, it seeks to make science more accessible and appealing to a wider audience. This tool is perfect for educators, communicators, and social media managers who want to share scientific knowledge in a fun and relatable way.
 
 Blender Helper: This project is a chat support tool designed specifically for users of the Blender software. It provides real-time assistance, answering queries and offering solutions to common problems encountered by Blender users. With an intuitive interface and a comprehensive knowledge base, Bender Helper aims to enhance the user experience and streamline the problem-solving process for Bender software.
 
@@ -55,7 +55,7 @@ The transcribed German text is translated into English.
 Spacy's NLP model is used to extract nouns and verbs from the original German text.
 
 
-# Meme Me
+# meme.me
 
 Edtech companies often use educational memes on social media as part of their branding strategy. These memes are effective for engaging with audiences and increasing visibility. However, maintaining a daily posting schedule poses challenges. The meme creators, often individual meme makers or "trollers," struggle with consistency due to time constraints and the difficulty of continuously generating creative ideas. A frequent posting schedule is crucial as it leads to higher engagement and, consequently, a larger audience.
 
