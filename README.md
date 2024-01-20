@@ -36,7 +36,7 @@ This tool seems particularly useful for students learning German, enabling them 
 
 - correct_grammar: Corrects grammar in a given German text using the T5 model.
 generate_diff: Generates a textual difference between original and corrected text.
-- transcribe_and_correct: Transcribes audio to text, corrects its grammar, and shows differences.
+- transcribe_and_correct: Transcribes audio to text, corrects its grammar and shows differences.
 - transcribe_and_translate: Handles audio input, transcribes it to German text, corrects grammar, translates to English, and extracts nouns and verbs.
 
 
@@ -58,6 +58,9 @@ Spacy's NLP model is used to extract nouns and verbs from the original German te
 # meme.me
 
 Edtech companies often use educational memes on social media as part of their branding strategy. These memes are effective for engaging with audiences and increasing visibility. However, maintaining a daily posting schedule poses challenges. The meme creators, often individual meme makers or "trollers," struggle with consistency due to time constraints and the difficulty of continuously generating creative ideas. A frequent posting schedule is crucial as it leads to higher engagement and, consequently, a larger audience.
+
+Fine-tuned on: open_llama_3b"
+We leverage QLorA to efficiently decrease the training time
 
 <img width="600" alt="HörverstehenPro" src="https://github.com/Tharindupriyaharshana/H-rverstehenPro/assets/45678705/7cd3ff50-a54e-44f0-b105-d5af30f27dca">
 
