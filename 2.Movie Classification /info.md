@@ -1,4 +1,4 @@
-[19:15, 22/01/2024] +49 178 2044437: Here is an overview of the models we implemented/tried:
+Here is an overview of the models we implemented/tried:
 
 1. Random Forest Classifier
 2. Linear Support Vector Machine (SVM)
