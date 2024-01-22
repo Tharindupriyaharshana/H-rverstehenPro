@@ -12,4 +12,4 @@ Here is an overview of the models we implemented/tried:
     - Character N-Grams
     - Doc2Vec
     - Deep IR (Information Retrieval) Model
-[19:16, 22/01/2024] +49 178 2044437: The overall accuracy ranges from 50% to 73%, depending on the data extraction.
+   The overall accuracy ranges from 50% to 73%, depending on the data extraction.
